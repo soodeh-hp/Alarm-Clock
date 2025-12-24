@@ -1,0 +1,6 @@
+# Virtual environments
+virt/
+
+
+# PyCharm specific files
+.idea/
