@@ -95,7 +95,7 @@ python alarmclock.py
 
 ---
 
-## 🔧 Technologies Used
+##  Technologies Used
 - Python 3 – Application logic
 - PyQt5 – GUI and event handling
 - Qt Designer – UI design
